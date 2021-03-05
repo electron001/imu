@@ -16,7 +16,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware']
 
 setup(
-    name         = 'IMU_lsm9ds1',
+    name         = 'IMU_LSM9DS1',
     version      = '1.0.1',
     author       = 'Maciej Biskup',
     author_email = 'mbiskup123@gmail.com',
