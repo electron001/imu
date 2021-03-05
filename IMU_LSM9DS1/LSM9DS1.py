@@ -21,6 +21,8 @@ WHO_AM_I = 0x0F
 
 WHO_AM_I_M = 0x0F
 
+print("hello")
+
 bus = smbus.SMBus(1)
 
 class LSM9DS1:
