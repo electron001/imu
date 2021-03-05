@@ -2,7 +2,7 @@ import IMU_LSM9DS1
 import time
 import sys
 
-lsm9ds1 = lsm9ds1.lsm9ds1()
+lsm9ds1 = IMU_lsm9ds1.lsm9ds1()
 
 try:
 
