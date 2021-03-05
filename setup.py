@@ -12,12 +12,13 @@ classifiers = ['Development Status :: 4 - Beta',
                'License :: OSI Approved :: Apache Software License',
                'Intended Audience :: Developers',
                'Programming Language :: Python :: 2.7',
+               'Programming Language :: Python :: 3.8',
                'Topic :: Software Development',
                'Topic :: System :: Hardware']
 
 setup(
     name         = 'IMU_LSM9DS1',
-    version      = '1.0.1',
+    version      = '1.0.2',
     author       = 'Maciej Biskup',
     author_email = 'mbiskup123@gmail.com',
     description  = "Library for lsm9ds1",
